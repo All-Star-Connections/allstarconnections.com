@@ -37,3 +37,18 @@
   pretty_urls = true
 [build.processing.images]
   compress = true
+
+  [[redirects]]
+  from = "/candidates"
+  to = "/"
+  status = 301
+
+  [[redirects]]
+  from = "/clients"
+  to = "/"
+  status = 301
+
+  [[redirects]]
+  from = "/undefined"
+  to = "/"
+  status = 301
