@@ -159,9 +159,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'Rich and I collaborated several times over the past year to fill positions within my organization. As a recruiter Rich was very professional, providing high-caliber candidates, following up in a timely fashion, and keeping me advised as situations changed with each individual candidate. Rich provided solid advice, sometimes even when it may not have been the best thing for him, but his goal was a long term relationship with me and my organization, not a short term win for himself, and that showed in everything he did.',
+        'All-Star Connections and I collaborated several times over the past year to fill positions within my organization. As a recruiter, All-Star Connections was very professional, providing high-caliber candidates, following up in a timely fashion, and keeping me advised as situations changed with each individual candidate. All-Star Connections provided solid advice, sometimes even when it may not have been the best thing for them, but their goal was a long term relationship with me and my organization, not a short term win for themselves, and that showed in everything they did.',
       img: imgMike,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Mike Egli.',
       author: 'Mike Egli',
       position: 'Director of Supply Chain',
       company: 'Tegra Medical',
@@ -169,9 +170,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'We had been looking to fill a senior level Quality role for over 4 months before we engaged with Rich at All Star Connections. Rich spent the time to learn about what we were looking for and immediate;y produced strong candidates, one of which we hired remotely within a month of working with Rich.',
+        'We had been looking to fill a senior level Quality role for over 4 months before we engaged with All Star Connections. They spent the time to learn about what we were looking for and immediately produced strong candidates, one of which we hired remotely within a month of working with All-Star Connections.',
       img: imgBarry,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Barry Shaw.',
       author: 'Barry Shaw',
       position: 'Senior Director of Quality',
       company: 'Arsenal Medical',
@@ -179,9 +181,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'I have worked with Rich over the past few years. He has helped me hire a wide variety of roles in at least three different states! Overseeing hiring in multiple states can be daunting, but Rich has made the process seamless. He is attentive, and always willing to provide information necessary for local trends. He delivers quality candidates quickly and I am very appreciative of that! Looking forward to working with Rich for years to come!',
+        'I have worked with All-Star Connections over the past few years. They have helped me hire a wide variety of roles in at least three different states! Overseeing hiring in multiple states can be daunting, but All-Star Connections has made the process seamless. They are attentive, and always willing to provide information necessary for local trends. They deliver quality candidates quickly and I am very appreciative of that! Looking forward to working with All-Star Connections for years to come!',
       img: imgKatie,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Katie Melnikoff.',
       author: 'Katie Melnikoff, SHRM-CP ',
       position: 'Sr. HR Business Partner',
       company: 'LION',
@@ -189,9 +192,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'Rich has been helping us to hire Engineers. He understands our needs and gears in to action quickly - without wasting time. It has been a pleasure working with Rich.',
+        'All-Star Connections has been helping us to hire Engineers. They understand our needs and gears in to action quickly - without wasting time. It has been a pleasure working with All-Star Connections.',
       img: imgHiro,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Hiro Endo.',
       author: 'Hiro Endo',
       position: 'Chief Technology Officer',
       company: 'Test Devices - SCHENCK USA CORP.',
@@ -199,9 +203,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        "As Executive Vice President and Director of Human Resources we are always actively recruiting qualified engineers. We've worked with numerous recruiting firms with varying degrees of success. We started working with Rich after he cold called our firm and frankly did so as all the other firms we had been working with failed to deliver candidates that fit our criteria. Once engaged, immediately Rich sent over several candidates that met our firms needs and we ended up hiring one of his recommendations. The process was extremely fast (which we needed) and Rich and his team were thorough and professional and great at follow up and follow through! I highly recommend and will continue using All Star Connections in the future!",
+        "As Executive Vice President and Director of Human Resources we are always actively recruiting qualified engineers. We've worked with numerous recruiting firms with varying degrees of success. We started working with All-Star Connections after they cold called our firm and frankly did so as all the other firms we had been working with failed to deliver candidates that fit our criteria. Once engaged, immediately All-Star Connections sent over several candidates that met our firms needs and we ended up hiring one of their recommendations. The process was extremely fast (which we needed) and All-Star Connections and their team were thorough and professional and great at follow up and follow through! I highly recommend and will continue using All Star Connections in the future!",
       img: imgTina,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Tina Vidal-Duart.',
       author: 'Tina Vidal-Duart',
       position: 'Chief Executive Officer',
       company: 'CDR Health',
@@ -209,9 +214,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'I worked with Rich on filling two positions. Although those positions were a bit difficult to fill, Rich provided great assistance by selecting and sending resumes of candidates that exactly meet our needs. The candidates selected by Rich met our requirements and both were hired within a couple of weeks. Working with Rich is easy and straight to the point. No floods of resumes, but rather a precise selection of what was requested. Working with Rich was a great experience.',
+        'I worked with All-Star Connections on filling two positions. Although those positions were a bit difficult to fill, All-Star Connections provided great assistance by selecting and sending resumes of candidates that exactly meet our needs. The candidates selected by All-Star Connections met our requirements and both were hired within a couple of weeks. Working with All-Star Connections is easy and straight to the point. No floods of resumes, but rather a precise selection of what was requested. Working with All-Star Connections was a great experience.',
       img: imgAmir,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Amir Selman.',
       author: 'Amir Selman',
       position: 'Manufacturing Excellence',
       company: 'Advanced Instruments, LLC.',
@@ -219,9 +225,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'Richard was very helpful and professional when guiding me throughout the entire recruitment and interview process. He provided a great deal of information every step of the way and was always available and prepared to lend any assistance.',
+        'All-Star Connections was very helpful and professional when guiding me throughout the entire recruitment and interview process. They provided a great deal of information every step of the way and was always available and prepared to lend any assistance.',
       img: imgBruno,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Bruno Ribeiro.',
       author: 'Bruno Ribeiro',
       position: 'Quality Manager',
       company: 'Line Bore Industries',
@@ -229,9 +236,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        "Richard recruited me for the position I currently have here at TPI Composites. He was very thorough in his research and very responsive to things I was interested in before starting with the company. Overall, I was very impressed with Richard's professionalism and work ethic through the whole process. I have had recruiters in the past that were a bit over powering and demanding, rather than working to help find the right fit. I would recommend Richard to anyone looking for a professional career and wish him all the success he deserves.",
+        "All-Star Connections recruited me for the position I currently have here at TPI Composites. They were very thorough in their research and very responsive to things I was interested in before starting with the company. Overall, I was very impressed with All-Star Connections' professionalism and work ethic through the whole process. I have had recruiters in the past that were a bit over powering and demanding, rather than working to help find the right fit. I would recommend All-Star Connections to anyone looking for a professional career and wish them all the success they deserves.",
       img: imgGarrett,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Garrett Krapf.',
       author: 'Garrett Krapf',
       position: 'Business Development Manager',
       company: 'TPI Composites',
@@ -239,9 +247,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'Richard, this is past due on my side but I wanted to say Thank you again for finding me a great opportunity for me. Thanks for making the process so easy and getting it worked out so fast as it was time sensitive. I will definitely be recommending anyone that is looking for a job to you. Thanks again.',
+        'All-Star Connections, this is past due on my side but I wanted to say Thank you again for finding me a great opportunity for me. Thanks for making the process so easy and getting it worked out so fast as it was time sensitive. I will definitely be recommending anyone that is looking for a job to you. Thanks again.',
       img: imgInderjit,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Inderjit Panesar.',
       author: 'Inderjit Panesar',
       position: 'Financial Controller',
       company: 'Faber Construction',
@@ -249,9 +258,10 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'Richard helped me every step of the way in being placed with a new company that was a great fit for my career path. From setting up interviews to helping manage my move, i was very satisfied with his helpfulness during the whole process.',
+        'All-Star Connections helped me every step of the way in being placed with a new company that was a great fit for my career path. From setting up interviews to helping manage my move, I was very satisfied with their helpfulness during the whole process.',
       img: imgMatt,
-      imgAlt: '',
+      imgAlt:
+        'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Matt Vice.',
       author: 'Matt Vice',
       position: 'Lead Packaging Engineer',
       company: 'Kimberly-Clark Professional',

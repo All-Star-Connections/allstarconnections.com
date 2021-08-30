@@ -200,7 +200,7 @@ const FormSidebar = () => {
           type="submit"
           value="Submit"
         >
-          <span>Submit Inquiry</span>
+          <span className="drop-shadow-text">Submit Inquiry</span>
         </button>
       </div>
     </form>

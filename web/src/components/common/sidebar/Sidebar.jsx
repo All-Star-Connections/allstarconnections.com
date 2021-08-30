@@ -28,9 +28,9 @@ const Sidebar = () => {
       <FadeIn classes="space-y-20 lg:h-full">
         <FormSidebar />
         <TestimonialSidebar
-          testimonial="Rich and I collaborated several times over the past year to fill positions within my organization. As a recruiter Rich was very professional, providing high-caliber candidates, following up in a timely fashion, and keeping me advised as situations changed with each individual candidate. Rich provided solid advice, sometimes even when it may not have been the best thing for him, but his goal was a long term relationship with me and my organization, not a short term win for himself, and that showed in everything he did."
+          testimonial="All-Star Connections and I collaborated several times over the past year to fill positions within my organization. As a recruiter, All-Star Connections was very professional, providing high-caliber candidates, following up in a timely fashion, and keeping me advised as situations changed with each individual candidate. All-Star Connections provided solid advice, sometimes even when it may not have been the best thing for them, but their goal was a long term relationship with me and my organization, not a short term win for themselves, and that showed in everything they did."
           imgTestimonial={imgTestimonial}
-          imgAlt="NEED"
+          imgAlt="All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Mike Egli."
           author="Mike Eglim"
           position="Director of Supply Chain"
           company="Tegra Medical"

@@ -15,7 +15,7 @@ const BenefitsHouston = () => {
       icon: TimeIcon,
       name: 'Save Time & Money',
       description:
-        '"He understands our needs and gears in to action quickly - without wasting time. It has been a pleasure working with Rich."',
+        '"He understands our needs and gears in to action quickly - without wasting time. It has been a pleasure working with All-Star Connections."',
       author: 'Hiro Endo, Chief Technology Officer',
       position: 'Test Devices - SCHENCK USA CORP.',
     },
@@ -23,7 +23,7 @@ const BenefitsHouston = () => {
       icon: RecruitmentIcon,
       name: 'High-Calibar Candidates',
       description:
-        '"Immediately produced strong candidates, one of which we hired remotely within a month of working with Rich."',
+        '"Immediately produced strong candidates, one of which we hired remotely within a month of working with All-Star Connections."',
       author: 'Barry Shaw, Senior Director of Quality',
       position: 'Arsenal Medical',
     },
