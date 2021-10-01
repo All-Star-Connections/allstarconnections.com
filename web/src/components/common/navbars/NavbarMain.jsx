@@ -224,7 +224,7 @@ const NavbarMain = () => {
                               className="absolute mx-auto z-10 inset-x-0 transform shadow-2xl rounded-2xl w-max"
                             >
                               <div className="bg-white">
-                                <div className="max-w-max mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-1 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-1 lg:px-8 lg:py-8 xl:py-8">
+                                <div className="max-w-max mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-1 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-2 lg:px-8 lg:py-8 xl:py-8">
                                   {navLinksIndustries.map((item) => (
                                     <Link
                                       key={item.name}
