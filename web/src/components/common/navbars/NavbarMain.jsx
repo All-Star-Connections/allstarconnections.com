@@ -437,34 +437,34 @@ const NavbarMain = () => {
                             </Link>
                           </div>
                         </Col>
+                        <Col>
+                          <div>
+                            <Link
+                              key={navLinksMobile[5].name}
+                              to={navLinksMobile[5].to}
+                              className={dryClasses.navItemMobile}
+                              activeClassName={dryClasses.activeNavItem}
+                            >
+                              {navLinksMobile[5].name}
+                            </Link>
+                          </div>
+                        </Col>
+                        <Col>
+                          <div>
+                            <Link
+                              key={navLinksMobile[6].name}
+                              to={navLinksMobile[6].to}
+                              className={dryClasses.navItemMobile}
+                              activeClassName={dryClasses.activeNavItem}
+                            >
+                              {navLinksMobile[6].name}
+                            </Link>
+                          </div>
+                        </Col>
                       </Disclosure.Panel>
                     </div>
                   )}
                 </Disclosure>
-              </Col>
-              <Col>
-                <div>
-                  <Link
-                    key={navLinksMobile[5].name}
-                    to={navLinksMobile[5].to}
-                    className={dryClasses.navItemMobile}
-                    activeClassName={dryClasses.activeNavItem}
-                  >
-                    {navLinksMobile[5].name}
-                  </Link>
-                </div>
-              </Col>
-              <Col>
-                <div>
-                  <Link
-                    key={navLinksMobile[6].name}
-                    to={navLinksMobile[6].to}
-                    className={dryClasses.navItemMobile}
-                    activeClassName={dryClasses.activeNavItem}
-                  >
-                    {navLinksMobile[6].name}
-                  </Link>
-                </div>
               </Col>
               <Col>
                 <div>
@@ -487,6 +487,30 @@ const NavbarMain = () => {
                     activeClassName={dryClasses.activeNavItem}
                   >
                     {navLinksMobile[8].name}
+                  </Link>
+                </div>
+              </Col>
+              <Col>
+                <div>
+                  <Link
+                    key={navLinksMobile[9].name}
+                    to={navLinksMobile[9].to}
+                    className={dryClasses.navItemMobile}
+                    activeClassName={dryClasses.activeNavItem}
+                  >
+                    {navLinksMobile[9].name}
+                  </Link>
+                </div>
+              </Col>
+              <Col>
+                <div>
+                  <Link
+                    key={navLinksMobile[10].name}
+                    to={navLinksMobile[10].to}
+                    className={dryClasses.navItemMobile}
+                    activeClassName={dryClasses.activeNavItem}
+                  >
+                    {navLinksMobile[10].name}
                   </Link>
                 </div>
               </Col>
