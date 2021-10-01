@@ -119,6 +119,10 @@ const LinkFooter = () => {
         label: 'Aerospace Engineering',
         link: '/aerospace-engineering/',
       },
+      {
+        label: 'Finance & Accounting',
+        link: '/finance-accounting/',
+      },
     ],
     col4: [
       {

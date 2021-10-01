@@ -56,6 +56,15 @@ const ServicesSanDiego = () => {
           gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
         }
       }
+      imgFeatureSix: file(
+        relativePath: {
+          eq: "assets/images/home/industries-finance-accounting-job-recruiter-agency-all-star-connections.jpg"
+        }
+      ) {
+        childImageSharp {
+          gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
+        }
+      }
     }
   `);
 
@@ -64,6 +73,7 @@ const ServicesSanDiego = () => {
   const imgServiceThree = data.imgServiceThree.childImageSharp.gatsbyImageData;
   const imgServiceFour = data.imgServiceFour.childImageSharp.gatsbyImageData;
   const imgFeatureFive = data.imgFeatureFive.childImageSharp.gatsbyImageData;
+  const imgFeatureSix = data.imgFeatureSix.childImageSharp.gatsbyImageData;
 
   const features = [
     {
@@ -99,6 +109,12 @@ const ServicesSanDiego = () => {
       image: imgFeatureFive,
       alt: 'All-Star Connections is an aerspace engineering recruiting agency.',
       link: '/aerospace-engineering/',
+    },
+    {
+      name: 'Finance & Accounting',
+      image: imgFeatureSix,
+      alt: 'All-Star Connections is a finance & accounting recruiting agency.',
+      link: '/finance-accounting/',
     },
   ];
 

@@ -228,6 +228,14 @@ const FeaturesHouston = () => {
                     Mechanical Engineers, Electrical Engineers, Manufacturing
                     Engineers, Process Engineers, OpEx, EHS, and more)
                   </li>
+                  <li>
+                    <span className="fa-li">
+                      <i className="fas fa-check text-primary" />
+                    </span>
+                    <strong>Finance & Accounting</strong> (Quality Engineers,
+                    Mechanical Engineers, Electrical Engineers, Manufacturing
+                    Engineers, Process Engineers, OpEx, EHS, and more)
+                  </li>
                 </ul>
               </div>
             </div>

@@ -41,6 +41,13 @@ const ListSidebar = () => (
             </h3>
           </Link>
         </li>
+        <li className="pt-2">
+          <Link to="/finance-accounting/">
+            <h3 className="font-normal text-accent hover:text-yellow-600">
+              Finance & Accounting
+            </h3>
+          </Link>
+        </li>
       </ul>
     </div>
   </div>

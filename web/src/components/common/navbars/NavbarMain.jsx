@@ -67,6 +67,11 @@ const navLinksIndustries = [
     to: '/aerospace-engineering/',
     icon: 'fas fa-space-shuttle',
   },
+  {
+    name: 'Finance & Accounting',
+    to: '/finance-accounting/',
+    icon: 'fas fa-landmark',
+  },
 ];
 
 const navLinksMobile = [
@@ -82,6 +87,7 @@ const navLinksMobile = [
   },
   { name: 'Manufacturing', to: '/manufacturing/' },
   { name: 'Aerospace Engineering', to: '/aerospace-engineering/' },
+  { name: 'Finance & Accounting', to: '/finance-accounting/' },
   { name: 'About Us', to: '/about/' },
   { name: 'Testimonials', to: '/testimonials/' },
   { name: 'Locations', to: '/locations/' },

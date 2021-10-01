@@ -128,6 +128,9 @@ const FormFooter = () => {
               Manufacturing
             </option>
             <option value="Aerospace Engineering">Aerospace Engineering</option>
+            <option value="Finance & Accounting" className="bg-gray-100">
+              Finance & Accounting
+            </option>
           </select>
         </Col>
         <Col classes="lg:col-span-2">
