@@ -62,6 +62,11 @@ const navLinksIndustries = [
     to: '/manufacturing/',
     icon: 'fas fa-city',
   },
+  {
+    name: 'Aerospace',
+    to: '/aerospace-engineering/',
+    icon: 'fas fa-space-shuttle',
+  },
 ];
 
 const navLinksMobile = [
@@ -76,6 +81,7 @@ const navLinksMobile = [
     to: '/civil-structural-engineering/',
   },
   { name: 'Manufacturing', to: '/manufacturing/' },
+  { name: 'Aerospace Engineering', to: '/aerospace-engineering/' },
   { name: 'About Us', to: '/about/' },
   { name: 'Testimonials', to: '/testimonials/' },
   { name: 'Locations', to: '/locations/' },

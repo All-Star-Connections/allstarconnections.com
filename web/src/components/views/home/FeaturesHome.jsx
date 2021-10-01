@@ -47,6 +47,15 @@ const FeaturesHome = () => {
           gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
         }
       }
+      imgFeatureFive: file(
+        relativePath: {
+          eq: "assets/images/home/industries-aerospace-engineering-job-recruiter-agency-all-star-connections.jpg"
+        }
+      ) {
+        childImageSharp {
+          gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
+        }
+      }
     }
   `);
 
@@ -54,6 +63,7 @@ const FeaturesHome = () => {
   const imgFeatureTwo = data.imgFeatureTwo.childImageSharp.gatsbyImageData;
   const imgFeatureThree = data.imgFeatureThree.childImageSharp.gatsbyImageData;
   const imgFeatureFour = data.imgFeatureFour.childImageSharp.gatsbyImageData;
+  const imgFeatureFive = data.imgFeatureFive.childImageSharp.gatsbyImageData;
 
   const features = [
     {
@@ -79,6 +89,12 @@ const FeaturesHome = () => {
       image: imgFeatureThree,
       alt: 'All-Star Connections is a manufacturing recruiting agency.',
       link: '/manufacturing/',
+    },
+    {
+      name: 'Aerospace Engineering',
+      image: imgFeatureFive,
+      alt: 'All-Star Connections is an aerspace engineering recruiting agency.',
+      link: '/aerospace-engineering/',
     },
   ];
 

@@ -220,6 +220,14 @@ const CompanyHome = () => {
                     Mechanical Engineers, Electrical Engineers, Manufacturing
                     Engineers, Process Engineers, OpEx, EHS, and more)
                   </li>
+                  <li>
+                    <span className="fa-li">
+                      <i className="fas fa-check text-primary" />
+                    </span>
+                    <strong>Aerospace Engineering</strong> (Quality Engineers,
+                    Mechanical Engineers, Electrical Engineers, Manufacturing
+                    Engineers, Process Engineers, OpEx, EHS, and more)
+                  </li>
                 </ul>
               </div>
             </div>

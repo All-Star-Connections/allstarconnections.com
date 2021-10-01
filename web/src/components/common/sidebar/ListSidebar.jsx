@@ -34,6 +34,13 @@ const ListSidebar = () => (
             </h3>
           </Link>
         </li>
+        <li className="pt-2">
+          <Link to="/aerospace-engineering/">
+            <h3 className="font-normal text-accent hover:text-yellow-600">
+              Aerospace Engineering
+            </h3>
+          </Link>
+        </li>
       </ul>
     </div>
   </div>

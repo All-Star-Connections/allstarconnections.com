@@ -47,6 +47,15 @@ const ServicesSanDiego = () => {
           gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
         }
       }
+      imgFeatureFive: file(
+        relativePath: {
+          eq: "assets/images/home/industries-aerospace-engineering-job-recruiter-agency-all-star-connections.jpg"
+        }
+      ) {
+        childImageSharp {
+          gatsbyImageData(quality: 90, layout: FULL_WIDTH, placeholder: BLURRED)
+        }
+      }
     }
   `);
 
@@ -54,6 +63,7 @@ const ServicesSanDiego = () => {
   const imgServiceTwo = data.imgServiceTwo.childImageSharp.gatsbyImageData;
   const imgServiceThree = data.imgServiceThree.childImageSharp.gatsbyImageData;
   const imgServiceFour = data.imgServiceFour.childImageSharp.gatsbyImageData;
+  const imgFeatureFive = data.imgFeatureFive.childImageSharp.gatsbyImageData;
 
   const features = [
     {
@@ -83,6 +93,12 @@ const ServicesSanDiego = () => {
       alt: 'All-Star Connections is a manufacturing recruiting agency in San Diego, CA.',
 
       link: '/manufacturing/',
+    },
+    {
+      name: 'Aerospace Engineering',
+      image: imgFeatureFive,
+      alt: 'All-Star Connections is an aerspace engineering recruiting agency.',
+      link: '/aerospace-engineering/',
     },
   ];
 

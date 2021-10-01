@@ -140,6 +140,7 @@ const FormSidebar = () => {
               Civil & Structural Engineering
             </option>
             <option value="Manufacturing">Manufacturing</option>
+            <option value="Aerospace Engineering">Aerospace Engineering</option>
           </select>
         </Col>
         <Col classes="lg:col-span-2">
