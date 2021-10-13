@@ -247,7 +247,7 @@ const TestimonialsPage = ({ location }) => {
     {
       header: '5-Star Recruiting Review',
       testimonial:
-        'All-Star Connections, this is past due on my side but I wanted to say Thank you again for finding me a great opportunity for me. Thanks for making the process so easy and getting it worked out so fast as it was time sensitive. I will definitely be recommending anyone that is looking for a job to you. Thanks again.',
+        'All-Star Connections, this is past due on my side but I wanted to say thank you again for finding me great candidates. Thanks for making the process so easy and getting it worked out so fast as it was time sensitive. I will definitely be recommending anyone that is looking for a job or candidate to you. Thanks again.',
       img: imgInderjit,
       imgAlt:
         'All-Star Connections is a recruitment agency that has received many 5-star reviews from satisfied clients such as Inderjit Panesar.',

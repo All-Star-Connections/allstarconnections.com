@@ -68,7 +68,7 @@ const ServiceTemplate = ({ data }) => {
       />
       <Section>
         <Container>
-          <PageSidebar>
+          <PageSidebar industry={sanity.slug.current}>
             <SanityBlockContent blocks={sanity._rawBody} />
           </PageSidebar>
         </Container>
