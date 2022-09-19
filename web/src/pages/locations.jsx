@@ -328,10 +328,10 @@ We have been in business since 2016, and know exactly how to match people with t
                 "contentUrl": "https://www.allstarconnections.com/static/8e94a1d904e88137f23110d5f9f580c8/8399d/all-star-connections-recruiting-company-locations-houston-tx.webp",
                 "url": "https://www.allstarconnections.com/static/8e94a1d904e88137f23110d5f9f580c8/8399d/all-star-connections-recruiting-company-locations-houston-tx.webp"}
                 ],
-            "telephone": "(832) 864-5816",
+            "telephone": "(832) 346-6240",
             "contactPoint": {
               "contactType": "Customer Service",
-              "telephone": "(832) 864-5816"
+              "telephone": "(832) 346-6240"
             },
              "areaServed": [{"@type": "AdministrativeArea",               
                "geo": {
@@ -435,10 +435,10 @@ We have been in business since 2016, and know exactly how to match people with t
                 "contentUrl": "https://www.allstarconnections.com/static/b09e2eb396d8e2d092574282b50a3984/360f0/all-star-connections-recruiting-company-locations-san-diego-ca.webp",
                 "url": "https://www.allstarconnections.com/static/b09e2eb396d8e2d092574282b50a3984/360f0/all-star-connections-recruiting-company-locations-san-diego-ca.webp"}
                 ],
-            "telephone": "(619) 759-5234",
+            "telephone": "(619) 431-3745",
             "contactPoint": {
               "contactType": "Customer Service",
-              "telephone": "(619) 759-5234"
+              "telephone": "(619) 431-3745"
             },
              "areaServed": [{"@type": "AdministrativeArea",               
                "geo": {
@@ -714,12 +714,12 @@ We have been in business since 2016, and know exactly how to match people with t
                     <li>
                       <span className="font-bold">Phone Number</span>:{' '}
                       <a
-                        href="tel:+18328645816"
+                        href="tel:+18323466240"
                         target="_blank"
                         className="text-yellow-500 hover:text-blue-800 font-semibold"
                         rel="noreferrer noopener"
                       >
-                        (832) 864-5816
+                        (832) 346-6240
                       </a>
                     </li>
                     <li>
@@ -783,12 +783,12 @@ We have been in business since 2016, and know exactly how to match people with t
                     <li>
                       <span className="font-bold">Phone Number</span>:{' '}
                       <a
-                        href="tel:+16197595234"
+                        href="tel:+16194313745"
                         target="_blank"
                         className="text-yellow-500 hover:text-blue-800 font-semibold"
                         rel="noreferrer noopener"
                       >
-                        (619) 759-5234
+                        (619) 431-3745
                       </a>
                     </li>
                     <li>
